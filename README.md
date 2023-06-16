@@ -7,7 +7,7 @@ you can create another store, update and delete it.
 each book must be in one store.
 each store must have a lot of books.
 
-## used:
+## Tools:
 -postgresql.
 -node.js.
 -express.
