@@ -8,10 +8,11 @@ each book must be in one store.
 each store must have a lot of books.
 
 ## Tools:
--postgresql.
--node.js.
--express.
+-postgresql
+-node.js
+-express
 -randomstring
+-postman
 
 ## Screenshots :
 
